@@ -1,0 +1,22 @@
+body{
+    background-image:url("img/fondopixel.gif");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#blanco{
+    background-color: #FFFFFF85;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+footer{
+    background-color: black;
+    position: absolute;
+    width: 100%;
+    bottom: 0px;
+    background-image: url("img/fondocuevas.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: black;
+}
